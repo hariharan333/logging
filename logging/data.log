@@ -1,0 +1,7 @@
+2020-06-05 16:06:52,601 - log - INFO - this is complete
+2020-06-05 16:06:52,602 - log - WARNING - increate count
+2020-06-05 16:06:52,602 - log - INFO - still increate count
+2020-06-05 16:06:52,602 - log - WARNING - increate count
+2020-06-05 16:06:52,602 - log - INFO - still increate count
+2020-06-05 16:06:52,602 - log - WARNING - close count
+2020-06-05 16:06:52,602 - log - INFO - still close count
